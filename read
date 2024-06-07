@@ -1,0 +1,31 @@
+**Plugin Name: CrystalGuard**
+
+**Compatible Minecraft Versions: 1.18 - 1.20.X**
+
+**Description:**
+
+CrystalGuard is a robust anti-cheat plugin designed to enhance your Minecraft server's security by preventing players from using third-party clients to exploit crystal placement and crystal switching mechanics. This lightweight yet powerful tool is essential for maintaining a fair and competitive environment on your server.
+
+**Key Features:**
+
+- **Anti-Crystal Exploit**: Automatically detects and prevents players from using unauthorized clients to place crystals or perform crystal switches.
+- **Seamless Integration**: Works out-of-the-box with no configuration required. Simply install CrystalGuard and enjoy enhanced server security instantly.
+- **Version Compatibility**: Fully supports Minecraft versions 1.18 to 1.20.X, ensuring broad compatibility with most modern server setups.
+- **Lightweight Performance**: Designed to be efficient and non-intrusive, CrystalGuard ensures minimal impact on your server's performance while providing maximum protection.
+- **No Configuration Needed**: CrystalGuard is designed for simplicity and effectiveness, requiring no additional setup or configuration after installation.
+
+**Installation:**
+
+1. Download the CrystalGuard plugin.
+2. Place the CrystalGuard.jar file into your server's plugins directory.
+3. Restart your server.
+
+Your server is now protected against crystal exploits!
+
+**Why Choose CrystalGuard?**
+
+CrystalGuard is the ultimate solution for server administrators who want to maintain a level playing field without the hassle of complex configurations. By providing a straightforward, reliable defense against crystal-related cheats, CrystalGuard helps ensure that all players enjoy a fair and enjoyable Minecraft experience.
+
+**Get CrystalGuard today and fortify your Minecraft server against crystal exploits!**
+
+---
